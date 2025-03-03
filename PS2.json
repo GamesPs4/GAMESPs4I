@@ -1,0 +1,14 @@
+
+{
+    "DATA": {
+        "https://t.me/gamesPs4I": {
+            "region": "USA",
+            "name": "Content Title",
+            "version": "1.00",
+            "release": "11-15-2014",
+            "size": "1000000000",
+            "min_fw": null,
+            "cover_url": "https://t.me/gamesPs4I"
+        }
+    }
+}
