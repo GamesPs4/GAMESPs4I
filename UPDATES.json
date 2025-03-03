@@ -1,0 +1,44 @@
+{
+  "DATA": {
+    "new-content-1741024831417": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 48828125440,
+      "version": "1.52",
+      "release": "03-03-2024",
+      "min_fw": "9.00",
+      "cover_url": "https://i.postimg.cc/qBjxq3dQ/Picsart-25-03-03-20-39-30-628.jpg"
+    },
+    "https://akirabox.com/download/eyJpdiI6IlpabElTKzRzamEydk1iU2ZLK0Y3TXc9PSIsInZhbHVlIjoidkFtZXJDcW1FSTRlVmFzQnlpWUxPR21vc3NXUUl0cUx6ZnR5bUpWa2pCYz0iLCJtYWMiOiJmNTcwZDYxYTk1NTMxY2U0Nzc4Y2MxM2Q3MTVjMDI2MTE1ZDY3ZDQ1NWQ4NTE3OTJhZmFiMjU1NTk3MmRhNDMzIiwidGFnIjoiIn0=/%5BSPSX%5D-Hogwarts.Legacy-CUSA12771-EUR-Update-v1.05-%286.72+%29-Arczi-CyB1K.pkg": {
+      "title_id": "CUSA12771",
+      "region": "USA",
+      "name": "Hogwarts Legacy",
+      "size": 31225880576,
+      "version": "1.05",
+      "release": "03-03-2023",
+      "min_fw": "11.00",
+      "cover_url": null
+    },
+    "https://akirabox.com/download/eyJpdiI6IjRubjZzYTRZRGdDZXB1blFFR2Nyamc9PSIsInZhbHVlIjoiUVBFYVZGbnNuN0lnMXp5SUpsQXdQcjhRV003a3FtOFJnL3BEWkhvaEVDWT0iLCJtYWMiOiI4MjBhYWUyZDBiNDJkYzk4MzhiOGI3MTI0ZDFjY2M4ODgxMjY3NWNmNDhjZjcxZjNkODI5ZjFmMTJlYjhmZDVjIiwidGFnIjoiIn0=/%5BSPSX%5D-Hogwarts.Legacy-CUSA12771-EUR-Update-v1.05-%286.72+%29-Arczi-CyB1K.pkg": {
+      "title_id": "CUSA13323",
+      "region": "USA",
+      "name": "Ghost of Tsushima",
+      "size": 4500000,
+      "version": "2.24",
+      "release": "03-03-2022",
+      "min_fw": "11.00",
+      "cover_url": null
+    },
+    "https://akirabox.com/download/eyJpdiI6Ii9DS2V5RWF1c0RxcDRqSzBtZURUQ2c9PSIsInZhbHVlIjoid1lJZzQ1U3JLTnZLNTFyQVlCVjZnRUJrZmVPZkJLTURqWjlvWXExaExlST0iLCJtYWMiOiI4NGVjM2JkZTY4OTdkNWY5NjMxMDZkYTNhYTMyZWM5OTg5NjIxZjIwNjk2NzkzZGQ4MmY0MGEzYzFkNzZlMThhIiwidGFnIjoiIn0=/%28%29Mafia%20Definitive%20Edition.pkg": {
+      "title_id": "CUSA18097",
+      "region": "USA",
+      "name": "Mafia Definitive Edition Arabic",
+      "size": 6442450944,
+      "version": "1.4",
+      "release": "03-03-2018",
+      "min_fw": "9.00",
+      "cover_url": null
+    }
+  }
+}
